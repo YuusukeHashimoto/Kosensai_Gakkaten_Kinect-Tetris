@@ -33,12 +33,12 @@ The image is that there are invisible control buttons around you, and you are op
 
 # For the staff
 
-1) When the person who wants to play the game arrives, have him/her stand at the designated place (marked with tape).
+(1) When the person who wants to play the game arrives, have him/her stand at the designated place (marked with tape).
 At this point, explain the general outline of the game and how to operate it. When the staff presses the space button on the title screen, the game will start (but the blocks will not fall yet).
 
 <img src="image/Start.png" width="700px">
 
-2) First, the Kinect will recognize the player's skeleton (sometimes it takes a while for the Kinect to recognize the player).
+(2) First, the Kinect will recognize the player's skeleton (sometimes it takes a while for the Kinect to recognize the player).
 Once the player's skeleton is recognized, the avatar (Unity-chan) on the right side of the game screen will move in the same way as the player.
 
 <img src="image/loading.png" width="700px">
@@ -51,5 +51,5 @@ After confirming this, the staff member should click on the "GameStart" button. 
 ※ The arrangement of the blocks that already exist, and the types of the first two blocks that fall, are determined in advance. This makes it possible to use the first two blocks to erase four rows at once. This will be the tutorial, so please guide the staff well.
 
 
-3) The game will end once GameOver is reached. Press the space button to return to the title screen again. 
+(3) The game will end once GameOver is reached. Press the space button to return to the title screen again. 
 <img src="image/GameOver.png" width="700px">
