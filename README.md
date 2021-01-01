@@ -6,7 +6,8 @@ Source code for a game produced by the Nara-Kosen Festival in 2017.
 <img src="image/play.png" width="700px">
 
 # Environment
-Sorry, but the source code of the game made in 2017 at the Nara-Kosen Festival was uploaded in 2020, so the detailed environment and other details are unknown.
+- OS : Windows10  
+※ Sorry, but the source code of the game made in 2017 at the Nara-Kosen Festival was uploaded in 2020, so the detailed environment and other details are unknown.
 
 # How to play
 The basic content is the same as the original [Tetris](https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9).   
