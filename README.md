@@ -10,7 +10,7 @@ Source code for a game produced by the Nara-Kosen Festival in 2017.
 - Motion Capture Device : Kinect (Microsoft)  
 ※ Sorry, but the source code of the game made in 2017 at the Nara-Kosen Festival was uploaded in 2020, so the detailed environment and other details are unknown.
 
-# How to play
+# How to play ?
 The basic content is the same as the original [Tetris](https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9).   
 The only difference is that the blocks are controlled by the movement of your right arm.
 
