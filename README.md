@@ -25,6 +25,6 @@ Don`t use your left hand, so keep it on your hip.
 
 The image is that there are invisible control buttons around you, and you are operating them with your right hand. For example, if you keep your right hand pointing up, the button will stay pressed and keep rotating at regular intervals. If you want to rotate the block only once, point your arm upward and move it back forward at the earliest possible moment.
 
-(Note 1) If you move your arm too fast, the Kinect camera may not be able to recognize it. If this happens, try playing slower while checking the movement of the girl on the right side of the game screen (Unity-Chan).
+(Note 1) If you move your arm too fast, the Kinect camera may not be able to recognize it. If this happens, try playing slower while checking the movement of the girl on the right side of the game screen ([Unity-Chan](https://unity-chan.com/index.html)).
 
 (Note 2) If you keep your right hand down, the blocks will fall at a fast speed! Make sure to return to the basic posture (right hand in front) after each block manipulation!
