@@ -28,3 +28,15 @@ The image is that there are invisible control buttons around you, and you are op
 (Note 1) If you move your arm too fast, the Kinect camera may not be able to recognize it. If this happens, try playing slower while checking the movement of the girl on the right side of the game screen ([Unity-Chan](https://unity-chan.com/index.html)).
 
 (Note 2) If you keep your right hand down, the blocks will fall at a fast speed! Make sure to return to the basic posture (right hand in front) after each block manipulation!
+
+# For the staff
+
+## 1) Step1
+1) When the person who wants to play the game arrives, have him/her stand at the designated place (marked with tape).
+At this point, explain the general outline of the game and how to operate it. When the staff presses the space button on the title screen, the game will start (but the blocks will not fall yet).
+
+## 2) Step2
+First, the Kinect will recognize the player's skeleton (sometimes it takes a while for the Kinect to recognize the player).
+Once the player's skeleton is recognized, the avatar (Unity-chan) on the right side of the game screen will move in the same way as the player.
+After confirming this, the staff member should click on the "GameStart" button. When you click the button, the blocks will start falling.
+(If you click the GameStart button right after this screen appears (1 to 3 seconds), GameOver will occur for some reason, so don't click it right away.)
