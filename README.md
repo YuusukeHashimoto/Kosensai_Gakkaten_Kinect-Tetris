@@ -15,13 +15,13 @@ Stand upright, with your right arm pointing straight ahead!
 Don`t use your left hand, so keep it on your hip.
 
 ## Basic operation
-- 1) Right arm upward ⇒ Block rotates counterclockwise(There is no clockwise rotation).
+- 1) Right arm ***upward*** ⇒ Block rotates counterclockwise(There is no clockwise rotation).
 
-- 2) Right arm to the right => Block moves to the right.
+- 2) Right arm to ***right*** => Block moves to the right.
 
-- 3) Right arm to left ⇒ Block moves to left
+- 3) Right arm to ***left*** ⇒ Block moves to left
 
-- 4) Right arm downward ⇒ Block will fall faster
+- 4) Right arm ***downward*** ⇒ Block will fall faster
 
 The image is that there are invisible control buttons around you, and you are operating them with your right hand. For example, if you keep your right hand pointing up, the button will stay pressed and keep rotating at regular intervals. If you want to rotate the block only once, point your arm upward and move it back forward at the earliest possible moment.
 
