@@ -1,7 +1,6 @@
 # Tetris-Kinect
-
 Source code for a game produced by the Nara-Kosen Festival in 2017.  
-[Unity](https://unity.com/ja), a game engine, and [Kinect](https://developer.microsoft.com/ja-jp/windows/kinect/), a motion capture device, were used in the production of this game.
+[Unity](https://unity.com/ja), a game engine, and [Kinect](https://developer.microsoft.com/ja-jp/windows/kinect/), a motion capture device, were used in the production of this game. 
 
 <img src="image/play.png" width="700px">
 
