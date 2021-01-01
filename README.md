@@ -6,6 +6,8 @@ Source code for a game produced by the Nara-Kosen Festival in 2017.
 
 # Environment
 - OS : Windows10  
+- GameEngine : Unity  
+- Motion Capture Device : Kinect (Microsoft)  
 ※ Sorry, but the source code of the game made in 2017 at the Nara-Kosen Festival was uploaded in 2020, so the detailed environment and other details are unknown.
 
 # How to play
