@@ -3,6 +3,8 @@
 Source code for a game produced by the Nara-Kosen Festival in 2017.  
 [Unity](https://unity.com/ja), a game engine, and [Kinect](https://developer.microsoft.com/ja-jp/windows/kinect/), a motion capture device, were used in the production of this game.
 
+<img src="image/playing.png" width="700px">
+
 # Environment
 Sorry, but the source code of the game made in 2017 at the Nara-Kosen Festival was uploaded in 2020, so the detailed environment and other details are unknown.
 
