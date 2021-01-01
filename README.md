@@ -40,10 +40,11 @@ At this point, explain the general outline of the game and how to operate it. Wh
 
 2) First, the Kinect will recognize the player's skeleton (sometimes it takes a while for the Kinect to recognize the player).
 Once the player's skeleton is recognized, the avatar (Unity-chan) on the right side of the game screen will move in the same way as the player.
-After confirming this, the staff member should click on the "GameStart" button. When you click the button, the blocks will start falling.
-(If you click the GameStart button right after this screen appears (1 to 3 seconds), GameOver will occur for some reason, so don't click it right away.)
 
 <img src="image/loading.png" width="700px">
+
+After confirming this, the staff member should click on the "GameStart" button. When you click the button, the blocks will start falling.
+(If you click the GameStart button right after this screen appears (1 to 3 seconds), GameOver will occur for some reason, so don't click it right away.)
 
 <img src="image/playing.png" width="700px">
 
