@@ -15,8 +15,12 @@ Stand upright, with your right arm pointing straight ahead!
 Don`t use your left hand, so keep it on your hip.
 
 ## Basic operation
-(1) Right arm upward ⇒ Block rotates counterclockwise
+- 1) Right arm upward ⇒ Block rotates counterclockwise
+
 There is no clockwise rotation.
-2) Right arm to the right => Block moves to the right.
-③ Right arm to left ⇒ Block moves to left
-(4) Right arm downward ⇒ Block will fall faster
+
+- 2) Right arm to the right => Block moves to the right.
+
+- 3)  Right arm to left ⇒ Block moves to left
+
+- 4) Right arm downward ⇒ Block will fall faster
