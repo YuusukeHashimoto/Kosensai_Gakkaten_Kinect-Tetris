@@ -55,3 +55,11 @@ After confirming this, the staff member should click on the "GameStart" button. 
 
 (3) The game will end once GameOver is reached. Press the space button to return to the title screen again. 
 <img src="image/GameOver.png" width="700px">
+
+# Award
+The Department of Information Engineering, to which I belong, won an award for excellence at the departmental exhibition.
+
+# Other works by our department
+- VR shooting game using a HMD (Head-Mounted Display)
+- Electrical circuit emulator using Minecraft
+- Promotional video for the department
