@@ -1,0 +1,59 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1110 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\H29 高専祭　　情報工学科科展\KInect部門\Kinect+Tetris V3\GameV4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\H29 高専祭　　情報工学科科展\KInect部門\Kinect+Tetris V3\GameV4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\H29 高専祭　　情報工学科科展\KInect部門\Kinect+Tetris V3\GameV4_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\H29 高専祭　　情報工学科科展\KInect部門\Kinect+Tetris V3\GameV4_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\H29 高専祭　　情報工学科科展\KInect部門\Kinect+Tetris V3\GameV4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\H29 高専祭　　情報工学科科展\KInect部門\Kinect+Tetris V3\GameV4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\H29 高専祭　　情報工学科科展\KInect部門\Kinect+Tetris V3\GameV4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\H29 高専祭　　情報工学科科展\KInect部門\Kinect+Tetris V3\GameV4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\H29 高専祭　　情報工学科科展\KInect部門\Kinect+Tetris V3\GameV4_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\H29 高専祭　　情報工学科科展\KInect部門\Kinect+Tetris V3\GameV4_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.258 seconds
+Platform assembly: E:\H29 高専祭　　情報工学科科展\KInect部門\Kinect+Tetris V3\GameV4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\H29 高専祭　　情報工学科科展\KInect部門\Kinect+Tetris V3\GameV4_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.038079 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.109009 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1082.
+Total: 0.459093 ms (FindLiveObjects: 0.073386 ms CreateObjectMapping: 0.027306 ms MarkObjects: 0.341333 ms  DeleteObjects: 0.016639 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.163092 ms
+
+Unloading 187 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 3.094185 ms (FindLiveObjects: 0.025173 ms CreateObjectMapping: 0.024319 ms MarkObjects: 0.202239 ms  DeleteObjects: 2.841598 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.910932 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.234239 ms (FindLiveObjects: 0.018346 ms CreateObjectMapping: 0.015359 ms MarkObjects: 0.195839 ms  DeleteObjects: 0.003839 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.636159 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1082.
+Total: 0.747519 ms (FindLiveObjects: 0.143786 ms CreateObjectMapping: 0.047359 ms MarkObjects: 0.540159 ms  DeleteObjects: 0.014933 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.927252 ms
+
+Unloading 187 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 3.425278 ms (FindLiveObjects: 0.042666 ms CreateObjectMapping: 0.023893 ms MarkObjects: 0.197546 ms  DeleteObjects: 3.159891 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1c38 -> priority: 1 

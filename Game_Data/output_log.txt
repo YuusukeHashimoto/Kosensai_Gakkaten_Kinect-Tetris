@@ -1,0 +1,107 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1110 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\hashimo\Desktop\Kinect+Tetris V3\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\hashimo\Desktop\Kinect+Tetris V3\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\hashimo\Desktop\Kinect+Tetris V3\Game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\hashimo\Desktop\Kinect+Tetris V3\Game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\hashimo\Desktop\Kinect+Tetris V3\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\hashimo\Desktop\Kinect+Tetris V3\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\hashimo\Desktop\Kinect+Tetris V3\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\hashimo\Desktop\Kinect+Tetris V3\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\hashimo\Desktop\Kinect+Tetris V3\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\hashimo\Desktop\Kinect+Tetris V3\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.155 seconds
+Platform assembly: C:\Users\hashimo\Desktop\Kinect+Tetris V3\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\hashimo\Desktop\Kinect+Tetris V3\Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 34.435429 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 57.471596 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1027.
+Total: 0.439893 ms (FindLiveObjects: 0.047786 ms CreateObjectMapping: 0.041386 ms MarkObjects: 0.336213 ms  DeleteObjects: 0.013653 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.317547 ms
+
+Unloading 187 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 3.130881 ms (FindLiveObjects: 0.048213 ms CreateObjectMapping: 0.026880 ms MarkObjects: 0.221013 ms  DeleteObjects: 2.834347 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.472320 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 1.238613 ms (FindLiveObjects: 0.066560 ms CreateObjectMapping: 0.068266 ms MarkObjects: 1.083733 ms  DeleteObjects: 0.018346 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.633173 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1027.
+Total: 0.648533 ms (FindLiveObjects: 0.070826 ms CreateObjectMapping: 0.040960 ms MarkObjects: 0.520533 ms  DeleteObjects: 0.015360 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.971947 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1027.
+Total: 2.176427 ms (FindLiveObjects: 0.257706 ms CreateObjectMapping: 0.163413 ms MarkObjects: 1.724587 ms  DeleteObjects: 0.027306 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.018453 ms
+
+Unloading 187 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 5.338882 ms (FindLiveObjects: 0.087466 ms CreateObjectMapping: 0.026026 ms MarkObjects: 0.376746 ms  DeleteObjects: 4.846935 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.519253 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 1.182720 ms (FindLiveObjects: 0.126293 ms CreateObjectMapping: 0.051626 ms MarkObjects: 0.983893 ms  DeleteObjects: 0.016213 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.648106 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1027.
+Total: 0.602453 ms (FindLiveObjects: 0.097280 ms CreateObjectMapping: 0.049493 ms MarkObjects: 0.439893 ms  DeleteObjects: 0.014506 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.010773 ms
+
+Unloading 187 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 5.805229 ms (FindLiveObjects: 0.127146 ms CreateObjectMapping: 0.041386 ms MarkObjects: 1.085867 ms  DeleteObjects: 4.548268 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.652373 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.912213 ms (FindLiveObjects: 0.076800 ms CreateObjectMapping: 0.027733 ms MarkObjects: 0.794880 ms  DeleteObjects: 0.008960 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.536320 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1027.
+Total: 1.182720 ms (FindLiveObjects: 0.117760 ms CreateObjectMapping: 0.087466 ms MarkObjects: 0.941653 ms  DeleteObjects: 0.034986 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 387c -> priority: 1 
